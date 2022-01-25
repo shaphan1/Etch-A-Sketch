@@ -1,0 +1,26 @@
+.container{
+    height: 700px;
+    width: 700px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -250px;
+    margin-left: -250px;
+    line-height: 0px;
+    border: 10px solid rgb(128, 0, 32);
+}
+.box{
+    background-color: whitered;
+    display: inline-block;
+}
+button{
+    height: 70px;
+    width: 190px;
+    border: 2px solid black;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    margin-top: -250px;
+    margin-left: -250px;
+    font-size: 20px;
+}
